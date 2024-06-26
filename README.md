@@ -1,2 +1,1 @@
-# JD-vs-Resume
-Comparing resume with a job description using Large Language Models
+# Comparing a resume with a job description using Large Language Models
